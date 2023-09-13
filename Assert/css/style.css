@@ -126,9 +126,7 @@ html
 .main__home .home__text h1 
 { 
     font-size: 72px;
-    background: linear-gradient(#2e48da, #7c89d1fd);
-    background-clip: text;
-    color: transparent;
+    color: #7c89d1fd;
 
 }
 .main__home .home__text h3
