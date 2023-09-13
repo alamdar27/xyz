@@ -1,0 +1,36 @@
+.alu-gmail
+{
+    background-image: url(gmail.png);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.alu-telephone
+{
+    background-image: url(telephone.png);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-position: center;
+    background-size: cover;
+}
+.alu-whatsapp
+{
+    background-image: url(whatapp.png);
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    background-position: center;
+    background-size: cover;
+}
+.alu-clock
+{
+    background-image: url(clock.png);
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background-position: center;
+    background-size: cover;
+}
